@@ -1,1 +1,2 @@
 # SyriaTelAnalysis
+In this project, I seeked to provide SyriaTel, a telecommunications company, solutions regarding customer retention. Before diving into the models, the approach was an important part of what led to my conclusions. In our dataset, there were a variety of factors I observed, and one of the aims was to determine the most important variables while determining if a customer would continue using SyriaTel's services. 
