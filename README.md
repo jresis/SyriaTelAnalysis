@@ -5,4 +5,4 @@ In this project, I seeked to provide SyriaTel, a telecommunications company, sol
 For each model, we also observed a 2x2 confusion matrix as well as four metrics (accuracy, recall, precision, and F1). The confusion matrices are an easy way to visualize the accuracy of each model. Numbers in the top-left and bottom-right corners represent correct predictions, while the other corners represent incorrect predictions. Accuracy is all about the percentage of predictions (whether or not a customer churned) that were correct. That is a very important metric, but F1 was also a key emphasis, as it considers both precision and recall. Therefore, a high F1 score generally indicates a model that is reliable all-around.
 
 ## Models
-The first model, which was used only as a preliminary step before diving into models with a higher chance of being a good fit, was a linear regression.
+The first model, which was used only as a preliminary step before diving into models with a higher chance of being appropriate, was a linear regression (in this case, the dependent variable only has two outcomes, so a linear regression does not have a good chance of being a good fit).
